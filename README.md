@@ -34,7 +34,7 @@ https://kairos-app-mocha.vercel.app/
 * **Cartza:** Delivered a fast and user-friendly web application for the client. _(Pre-launch phase)_
 * **Nestro:** A web experience focusing on seamless front-end design. _(Pre-launch phase)_
 * **Vanguard:** A robust application highlighting full-stack capabilities.(Working)
-* **kairos:** A web experience focusing on seamless front-end design. _(Pre-launch phase)_
+* **kairos:** A web experience focusing on seamless front-end design.(Delivered).
 
 
 **Technical Skills:**
