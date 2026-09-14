@@ -22,11 +22,6 @@ What matters most to me? Making sure my clients are happy by delivering quality 
 * Headless CMS Integration (Strapi,Sanity)
 
 
-**Links:**
-
-* GitHub: https://github.com/kevinpateldevelopment
-
-
 **Projects:**
 
 * **Cartza:** Built websites and apps that are fast and user-friendly.
