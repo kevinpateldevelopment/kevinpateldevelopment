@@ -21,12 +21,20 @@ What matters most to me? Making sure my clients are happy by delivering quality 
 * Database Management (PostgreSQL, MongoDB, Supabase)
 * Headless CMS Integration (Strapi,Sanity)
 
+**Links:**
+
+* Website: https://www.iamhiren.com/
+* Portfolio: 
+https://north-app.vercel.app/, 
+https://www.firmitasfx.com/, 
+https://kairos-app-mocha.vercel.app/
 
 **Projects:**
 
-* **Cartza:** Built websites and apps that are fast and user-friendly.
-* **Nestro:** A web experience focusing on seamless front-end design.
-* **Vanguard:** A robust application highlighting full-stack capabilities.
+* **Cartza:** Delivered a fast and user-friendly web application for the client. _(Pre-launch phase)_
+* **Nestro:** A web experience focusing on seamless front-end design. _(Pre-launch phase)_
+* **Vanguard:** A robust application highlighting full-stack capabilities.(Working)
+* **kairos:** A web experience focusing on seamless front-end design. _(Pre-launch phase)_
 
 
 **Technical Skills:**
