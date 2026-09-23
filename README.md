@@ -28,6 +28,7 @@ What matters most to me? Making sure my clients are happy by delivering quality 
 https://north-app.vercel.app/, 
 https://www.firmitasfx.com/, 
 https://kairos-app-mocha.vercel.app/
+* NPM Package: https://www.npmjs.com/package/strapi-mcp-connect
 
 **Projects:**
 
