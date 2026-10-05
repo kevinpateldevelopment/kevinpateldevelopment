@@ -17,7 +17,7 @@ What matters most to me? Making sure my clients are happy by delivering quality 
 
 **Expertise:**
 
-* Full-Stack Development (React.js, Next.js, Node.js)
+* Full-Stack Development (React.js, Next.js, Node.js, Express.js, Typescript)
 * Database Management (PostgreSQL, MongoDB, Supabase)
 * Headless CMS Integration (Strapi,Sanity)
 
@@ -42,9 +42,9 @@ https://kairos-app-mocha.vercel.app/
 
 * React.js & Next.js
 * Svelte.js
-* Node.js & TypeScript
+* Node.js & TypeScript & Express.js
 * Tailwind CSS
-* Strapi & PostgreSQL,Sanity
+* Strapi & PostgreSQL,Sanity, MongoDB
 
 
 ** Connect to me: **
